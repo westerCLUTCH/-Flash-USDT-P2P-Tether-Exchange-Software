@@ -46,10 +46,12 @@ Features
  -Works with multiple wallets
  -Built for traders and crypto businesses
 
-Closing Remark
-Flash USDT makes P2P Tether transactions fast, secure, and reliable.
+##Flash USDT makes P2P Tether transactions fast, secure, and reliable.
+
+
 For more details, support, or partnership inquiries, reach us directly:
 
 Official site: fastflashbitcoins.com
 Telegram: https://telegram.me/flashsbitcoins
-WhatsApp: +1 (770) 666–2531
+WhatsApp: https://wa.me/+17706662531
+
