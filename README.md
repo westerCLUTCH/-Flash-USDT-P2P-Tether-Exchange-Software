@@ -8,8 +8,10 @@ Whether you are running a P2P exchange or need a simple transfer tool, Flash USD
 
 For more details, support, or partnership inquiries, reach us directly:
 
-Official site: fastflashbitcoins.com
+Official site: https://fastflashbitcoins.com
+
 Telegram: https://telegram.me/flashsbitcoins
+
 WhatsApp: https://wa.me/+17706662531
 
 
