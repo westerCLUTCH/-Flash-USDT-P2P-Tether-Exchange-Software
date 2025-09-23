@@ -17,28 +17,28 @@ WhatsApp: https://wa.me/+17706662531
 
 ## How to Use
 1. **Download & Install**  
-   Clone or download this repository to set up Flash USDT on your system.  
+  - Clone or download this repository to set up Flash USDT on your system.  
 
   
 2.Configuration
 
-Set up your wallet credentials.
+-Set up your wallet credentials.
 
-Adjust network/transaction speed settings.
+-Adjust network/transaction speed settings.
 
-Define your P2P trade rules.
+-Define your P2P trade rules.
 
 3.Run the Software
-Start the software and begin secure USDT transfers instantly.
+-Start the software and begin secure USDT transfers instantly.
 
 
 4.P2P Trading
 
-Create or accept offers.
+-Create or accept offers.
 
-Transfer USDT instantly with low fees.
+-Transfer USDT instantly with low fees.
 
-Confirm transactions via your wallet.
+-Confirm transactions via your wallet.
 
 Features
  -Instant USDT (Tether) transactions
