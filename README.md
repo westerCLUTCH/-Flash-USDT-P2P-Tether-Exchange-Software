@@ -12,7 +12,7 @@ Official site: https://fastflashbitcoins.com
 
 Telegram: https://telegram.me/flashsbitcoins
 
-WhatsApp: https://wa.me/+17706662531
+WhatsApp: https://wa.me/+447428352969
 
 
 ## How to Use
